@@ -16,7 +16,7 @@ use Doctrine\Common\Annotations\AnnotationRegistry;
  $paths = array(__DIR__ . '/src/DoctrineNaPratica/Model');
  // configurações do banco de dados
  $dbParams = array(
- 			'driver' => 'php_pdo_mysql',
+ 			'driver' => 'pdo_mysql',
  			'user' => 'root',
  			'password' => '698232',
  			'dbname' => 'dnp',);
