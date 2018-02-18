@@ -1,0 +1,17 @@
+{
+    "name": "root/doctrine",
+    "description": "Entendendo o ORM Doctrine na pratica.",
+    "require-dev": {
+        "doctrine/orm": "^2.6",
+        "doctrine/dbal" : "^2.6",
+        "doctrine/common" : "^2.7.1" 
+    },
+    "authors": [
+        {
+            "name": "valdeilton",
+            "email": "javaibotirama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
